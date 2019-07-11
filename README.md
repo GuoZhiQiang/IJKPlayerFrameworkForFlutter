@@ -15,3 +15,6 @@
 
 ### Note
 使用时，播放器依赖的库，要安装 ijkplayer 官网的介绍进行添加
+
+### 下载地址
+https://pan.baidu.com/s/1P7NAS3eCPKEmq5h6PkxZxw  github 有包大小限制，放在了网盘上，解压缩使用。
